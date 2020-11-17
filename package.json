@@ -1,0 +1,21 @@
+{
+    "name": "zhuanzhuan-lang-theme",
+    "displayName": "zhuanzhuan-lang-theme",
+    "description": "Highlight theme for zhuanzhuan language",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "zhuanzhuan-lang-theme",
+                "uiTheme": "vs",
+                "path": "./themes/zhuanzhuan-lang-theme-color-theme.json"
+            }
+        ]
+    }
+}
